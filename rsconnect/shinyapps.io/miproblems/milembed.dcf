@@ -1,0 +1,8 @@
+name: milembed
+account: miproblems
+server: shinyapps.io
+bundleId: 246225
+url: https://miproblems.shinyapps.io/milembed
+when: 1440163020.37306
+asMultiple: FALSE
+asStatic: FALSE
